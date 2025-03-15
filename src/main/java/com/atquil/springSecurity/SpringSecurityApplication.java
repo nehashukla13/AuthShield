@@ -1,4 +1,4 @@
-package com.atquil.springSecurity;
+package com.authshield.springSecurity;
 
 import com.atquil.springSecurity.config.RSAKeyRecord;
 import org.springframework.boot.SpringApplication;
