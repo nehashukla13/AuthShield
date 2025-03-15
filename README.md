@@ -53,7 +53,7 @@ A robust Spring Security implementation with advanced JWT authentication and OAu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/auth-shield.git
+git clone https://github.com/nehashukla13/auth-shield.git
 cd auth-shield
 ```
 
